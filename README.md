@@ -2,7 +2,7 @@
 
 A Streamlit-based machine learning web application that predicts the price of a laptop based on its specifications like brand, RAM, processor type, storage, and more.
 
-🔗 **Live App**: [Laptop Price Predictor](https://laptop-price-predictor-e3sijcnkbmgkvbtiwmm6td.streamlit.app/)
+
 
 ---
 
